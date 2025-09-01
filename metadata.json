@@ -1,0 +1,5 @@
+{
+  "name": "AI Analysis for Capillary Electrophoresis",
+  "description": "A web application demonstrating how AI can be applied to analyze and interpret the output from a Sebia Capillarys 2 instrument, providing preliminary findings on hemoglobin variants.",
+  "requestFramePermissions": []
+}
